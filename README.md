@@ -27,7 +27,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Penjelasan fitur secara singkat
 
 - Memiliki fitur mengubah foto background dan profile, tinggal klik atau drop file gambar. Ukuran size maksimal 2mb dan tipe gambar hanya boleh png, jpeg dan jpg.
-- Memiliki fitur menambahkan data singkat profil seperti nama, posisi dan deskripi, dan juga riwayat portofolio / pekerjaan.
+- Memiliki fitur menambahkan data singkat profil seperti nama, posisi dan deskripsi, dan juga riwayat portofolio / pekerjaan.
 
 - Setelah mengisi semua form input, kamu bisa melihat hasilnya dengan mengklik profile tab pada header, atau bila kamu klik tombol Simpan Perubahan, maka otomatis akan mengarah ke halaman profil.
 
