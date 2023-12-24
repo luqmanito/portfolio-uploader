@@ -9,7 +9,8 @@ bila ingin menjalankan secara lokal
 Petama, install node modules lalu jalankan mode dev atau build 
 
 
-```npm i
+```
+npm i
 # then
 in dev mode :
 npm run dev
